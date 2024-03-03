@@ -9,4 +9,4 @@ This project, developed using HTML, CSS, and JavaScript, aims to create an inter
 - Countdown timer to the end of the 2022 World Cup
 - User ability to manage player table (delete, add, and modify)
 - ...
-![2022 FIFA World Cup](2022_FIFA_World_Cup.svg)
+![2022 FIFA World Cup](FIFA_World_Cup.png)
